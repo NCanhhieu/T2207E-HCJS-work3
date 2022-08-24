@@ -1,0 +1,36 @@
+.row{
+    float: left;
+    margin: 10px 10px 10px 20px;
+}
+.row2{
+    float:left;
+}
+.column {
+    width: 300px;
+    box-shadow: 0px 0px 10px black;
+    padding: 20px;
+}
+.column2
+{
+    width: 600px;
+    box-shadow: 0px 0px 10px black ;
+    padding: 20px;
+    margin: 10px;
+}
+h3 {
+    background-color: #048804;
+    color: ghostwhite;
+}
+i{
+    color: #048804;
+}
+.title{
+    background-color: ghostwhite;
+    color: #048804;
+}
+#bar{
+    background-color: #7d7d81;
+}
+#bargain{
+    color: #880427;
+}
