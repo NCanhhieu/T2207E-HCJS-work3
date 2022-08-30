@@ -1,18 +1,40 @@
+.than{
+    width: 800px;
+    padding: 5px;
+}
+.header{
+    height: 150px;
+    padding: 20px;
+    background-color: green;
+}
+
+.ten{
+    margin: 20px;
+    padding: 20px;
+    color: ghostwhite;
+}
+.anh{
+    margin: 20px;
+    padding: 20px;
+    zoom: 40%;
+    float: left;
+    border-top-right-radius: 50px ;
+    border-bottom-right-radius: 50px;
+}
 .row{
     float: left;
     margin: 10px 10px 10px 20px;
 }
-.row2{
-    float:left;
-}
+
 .column {
-    width: 300px;
+
+    width: 250px;
     box-shadow: 0px 0px 10px black;
     padding: 20px;
 }
 .column2
 {
-    width: 600px;
+    width: 400px;
     box-shadow: 0px 0px 10px black ;
     padding: 20px;
     margin: 10px;

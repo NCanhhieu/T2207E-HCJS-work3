@@ -1,0 +1,27 @@
+h1 {
+    font-family: Arial,Helvetica,sans-serif;
+    word-spacing: 1px;
+    color: initial;
+    font-size: 27px;
+    line-height: normal;
+    font-weight: 600;
+    height: 62 px;
+    width: 687 px;
+}
+h2 {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.6;
+    font-family: Arial,Helvetica,sans-serif;
+    height: 62 px;
+    width: 687 px;
+}
+body {
+    font-size: 15px;
+    line-height: 1.6;
+    font-family: Arial,Helvetica,sans-serif;
+    text-transform: none;
+    text-decoration: none;
+    height: 96px;
+    width: 687px;
+}
