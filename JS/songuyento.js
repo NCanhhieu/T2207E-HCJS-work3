@@ -6,7 +6,7 @@ function prime() {
     var a = document.getElementById("prime");
     var b = document.getElementById("timer");
 
-        for (var i = 2; i < x/2; i++) {  //kiemtrax
+        for (var i = 2; i <= x/2; i++) {  //kiemtrax
             if (x % i == 0) {
                 flag = false;
                 break;
@@ -26,4 +26,4 @@ function prime() {
         clearInterval(si); // xoa set interval
     }
 }
-var si = setInterval(prime,3000);
+var si = setInterval(prime,2500);
