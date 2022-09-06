@@ -9,6 +9,7 @@ function prime() {
         for (var i = 2; i < x - 1; i++) {  //kiemtrax
             if (x % i == 0) {
                 flag = false;
+                break;
             }
         }
         if (flag) {                        //x thoa man thi in
