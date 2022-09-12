@@ -1,0 +1,21 @@
+body{
+    background-image: url("../image/white-clouds-against-bright-blue-sky-change-clear-sunny-weather-to-cloudy-wallpaper-news-forecast-clearing-202338536.jpg");
+    background-size: cover;
+}
+.fc{
+    width: 15%;
+    height: 20%;
+    color: ghostwhite;
+    background-color: deepskyblue;
+    float: left;
+    padding: 5px;
+    margin: 10px;
+}
+.wt{
+    float: left;
+
+}
+.im{
+    padding-top: 10px;
+    padding-left: 10px;
+}
