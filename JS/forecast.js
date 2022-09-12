@@ -22,7 +22,7 @@ function loading() {
             }
         }
     };
-    var link ="http://api.openweathermap.org/data/2.5/forecast?q=Hanoi,vietnam&appid=09a71427c59d38d6a34f89b47d75975c&units=metric";
+    var link ="api.openweathermap.org/data/2.5/forecast?q=Hanoi,vietnam&appid=09a71427c59d38d6a34f89b47d75975c&units=metric";
     xHttp.open("get", link, true);
     xHttp.send();
 }
