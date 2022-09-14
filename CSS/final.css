@@ -1,0 +1,44 @@
+.main{
+    width: 60%;
+    height: 120%;
+    padding: 50px;
+}
+.main .head{
+    height: 120%;
+    background-color: purple;
+    color: #d7d7c4;
+    padding: 30px ;
+    text-align: center;
+}
+.main .fa-newspaper{
+    font-size: 50px;
+}
+.main .res{
+    height: 400px;
+    background-color: #d7d7c4;
+    padding: 20px;
+}
+.main .input-group-text{
+    background-color: purple;
+}
+.main .fa-user{
+    color: #d7d7c4;
+}
+.main .fa-lock{
+    color: #d7d7c4;
+}
+.main .fa-envelope{
+    color: #d7d7c4;
+}
+.main .form-control{
+text-align: justify-all;
+padding-left: 50px;
+}
+.main .term{
+    color: purple;
+}
+.main .btn-primary{
+    width: 100%;
+    color: #d7d7c4;
+    background-color: purple;
+}

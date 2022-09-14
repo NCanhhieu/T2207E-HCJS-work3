@@ -3,19 +3,16 @@ body{
     background-size: cover;
 }
 .fc{
-    width: 15%;
-    height: 20%;
-    color: ghostwhite;
-    background-color: #00000080;
-    float: left;
-    padding: 5px;
-    margin: 10px;
+    float:left;
+    width: calc(25% - 30px);
+    background-color: rgba(40, 40, 201, 0.5);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 6px;
+    color: #d7d7c4;
+    height: 130px;
 }
-.wt{
-    float: left;
 
-}
-.im{
-    padding-top: 10px;
-    padding-left: 10px;
+.fc img {
+    transform: translate(100px,-80px);
 }

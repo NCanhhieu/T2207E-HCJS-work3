@@ -13,7 +13,7 @@ function loading() {
                 var str = `<div class="fc" >
  ${time} 
  <div class="wt"> <h1><span>${temp}</span><sup>o</sup>C</h1> ${desc} </div>
-<img class="wt" class="im" width="80" src="https://openweathermap.org/img/wn/${image}@2x.png" />  
+<img  width="80" src="https://openweathermap.org/img/wn/${image}@2x.png" />  
 
 </div>`;
                 var ul = document.getElementById("forecast");
